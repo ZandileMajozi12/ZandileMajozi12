@@ -22,3 +22,4 @@ $ changed file name to index.html
 $ added a signup button on html
 $ added styling on a button in css
 $ added a link on html
+$ added color and background color in css
