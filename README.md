@@ -14,3 +14,5 @@ $ git remote add origin repository-url
 $ code my-project-one
 $ add my-project-one file
 $ add folder images
+$ add file style.css
+$ add file index.js
