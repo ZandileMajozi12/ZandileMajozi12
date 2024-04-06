@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 $ git remote add origin repository-url
 $ code my-project-one
 $ add my-project-one file
+$ add folder images
