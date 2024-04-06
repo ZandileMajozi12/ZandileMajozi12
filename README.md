@@ -11,3 +11,4 @@ ZandileMajozi12/ZandileMajozi12 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 $ git remote add origin repository-url
+$ code my-project-one
