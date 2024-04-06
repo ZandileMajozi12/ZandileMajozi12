@@ -20,3 +20,4 @@ $ change file name my-project-one to my-project-html
 $ added alert on index.js
 $ changed file name to index.html
 $ added a signup button on html
+$ added styling on a button in css
